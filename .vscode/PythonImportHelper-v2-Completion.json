@@ -17,14 +17,6 @@
         "documentation": {}
     },
     {
-        "label": "*",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
         "label": "ttk",
         "importPath": "tkinter",
         "description": "tkinter",
@@ -34,636 +26,10 @@
     },
     {
         "label": "*",
-        "importPath": "tkinter",
-        "description": "tkinter",
+        "importPath": "triAlgs",
+        "description": "triAlgs",
         "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "ttk",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "ttk",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "ttk",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "ttk",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "ttk",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "ttk",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter",
-        "description": "tkinter",
-        "isExtraImport": true,
-        "detail": "tkinter",
-        "documentation": {}
-    },
-    {
-        "label": "label",
-        "importPath": "cProfile",
-        "description": "cProfile",
-        "isExtraImport": true,
-        "detail": "cProfile",
-        "documentation": {}
-    },
-    {
-        "label": "label",
-        "importPath": "cProfile",
-        "description": "cProfile",
-        "isExtraImport": true,
-        "detail": "cProfile",
-        "documentation": {}
-    },
-    {
-        "label": "label",
-        "importPath": "cProfile",
-        "description": "cProfile",
-        "isExtraImport": true,
-        "detail": "cProfile",
-        "documentation": {}
-    },
-    {
-        "label": "label",
-        "importPath": "cProfile",
-        "description": "cProfile",
-        "isExtraImport": true,
-        "detail": "cProfile",
-        "documentation": {}
-    },
-    {
-        "label": "label",
-        "importPath": "cProfile",
-        "description": "cProfile",
-        "isExtraImport": true,
-        "detail": "cProfile",
-        "documentation": {}
-    },
-    {
-        "label": "text",
-        "importPath": "cgitb",
-        "description": "cgitb",
-        "isExtraImport": true,
-        "detail": "cgitb",
-        "documentation": {}
-    },
-    {
-        "label": "text",
-        "importPath": "cgitb",
-        "description": "cgitb",
-        "isExtraImport": true,
-        "detail": "cgitb",
-        "documentation": {}
-    },
-    {
-        "label": "text",
-        "importPath": "cgitb",
-        "description": "cgitb",
-        "isExtraImport": true,
-        "detail": "cgitb",
-        "documentation": {}
-    },
-    {
-        "label": "e",
-        "importPath": "cmath",
-        "description": "cmath",
-        "isExtraImport": true,
-        "detail": "cmath",
-        "documentation": {}
-    },
-    {
-        "label": "command",
-        "importPath": "distutils",
-        "description": "distutils",
-        "isExtraImport": true,
-        "detail": "distutils",
-        "documentation": {}
-    },
-    {
-        "label": "command",
-        "importPath": "distutils",
-        "description": "distutils",
-        "isExtraImport": true,
-        "detail": "distutils",
-        "documentation": {}
-    },
-    {
-        "label": "command",
-        "importPath": "distutils",
-        "description": "distutils",
-        "isExtraImport": true,
-        "detail": "distutils",
-        "documentation": {}
-    },
-    {
-        "label": "command",
-        "importPath": "distutils",
-        "description": "distutils",
-        "isExtraImport": true,
-        "detail": "distutils",
-        "documentation": {}
-    },
-    {
-        "label": "command",
-        "importPath": "distutils",
-        "description": "distutils",
-        "isExtraImport": true,
-        "detail": "distutils",
-        "documentation": {}
-    },
-    {
-        "label": "command",
-        "importPath": "distutils",
-        "description": "distutils",
-        "isExtraImport": true,
-        "detail": "distutils",
-        "documentation": {}
-    },
-    {
-        "label": "master",
-        "importPath": "doctest",
-        "description": "doctest",
-        "isExtraImport": true,
-        "detail": "doctest",
-        "documentation": {}
-    },
-    {
-        "label": "master",
-        "importPath": "doctest",
-        "description": "doctest",
-        "isExtraImport": true,
-        "detail": "doctest",
-        "documentation": {}
-    },
-    {
-        "label": "master",
-        "importPath": "doctest",
-        "description": "doctest",
-        "isExtraImport": true,
-        "detail": "doctest",
-        "documentation": {}
-    },
-    {
-        "label": "decode_params",
-        "importPath": "email.utils",
-        "description": "email.utils",
-        "isExtraImport": true,
-        "detail": "email.utils",
-        "documentation": {}
-    },
-    {
-        "label": "decode_params",
-        "importPath": "email.utils",
-        "description": "email.utils",
-        "isExtraImport": true,
-        "detail": "email.utils",
-        "documentation": {}
-    },
-    {
-        "label": "decode_params",
-        "importPath": "email.utils",
-        "description": "email.utils",
-        "isExtraImport": true,
-        "detail": "email.utils",
-        "documentation": {}
-    },
-    {
-        "label": "decode_params",
-        "importPath": "email.utils",
-        "description": "email.utils",
-        "isExtraImport": true,
-        "detail": "email.utils",
-        "documentation": {}
-    },
-    {
-        "label": "RadioButton",
-        "importPath": "msilib.schema",
-        "description": "msilib.schema",
-        "isExtraImport": true,
-        "detail": "msilib.schema",
-        "documentation": {}
-    },
-    {
-        "label": "RadioButton",
-        "importPath": "msilib.schema",
-        "description": "msilib.schema",
-        "isExtraImport": true,
-        "detail": "msilib.schema",
-        "documentation": {}
-    },
-    {
-        "label": "RadioButton",
-        "importPath": "msilib.schema",
-        "description": "msilib.schema",
-        "isExtraImport": true,
-        "detail": "msilib.schema",
-        "documentation": {}
-    },
-    {
-        "label": "RadioButton",
-        "importPath": "msilib.schema",
-        "description": "msilib.schema",
-        "isExtraImport": true,
-        "detail": "msilib.schema",
-        "documentation": {}
-    },
-    {
-        "label": "RadioButton",
-        "importPath": "msilib.schema",
-        "description": "msilib.schema",
-        "isExtraImport": true,
-        "detail": "msilib.schema",
-        "documentation": {}
-    },
-    {
-        "label": "RadioButton",
-        "importPath": "msilib.schema",
-        "description": "msilib.schema",
-        "isExtraImport": true,
-        "detail": "msilib.schema",
-        "documentation": {}
-    },
-    {
-        "label": "READONLY_BUFFER",
-        "importPath": "pickle",
-        "description": "pickle",
-        "isExtraImport": true,
-        "detail": "pickle",
-        "documentation": {}
-    },
-    {
-        "label": "READONLY_BUFFER",
-        "importPath": "pickle",
-        "description": "pickle",
-        "isExtraImport": true,
-        "detail": "pickle",
-        "documentation": {}
-    },
-    {
-        "label": "READONLY_BUFFER",
-        "importPath": "pickle",
-        "description": "pickle",
-        "isExtraImport": true,
-        "detail": "pickle",
-        "documentation": {}
-    },
-    {
-        "label": "turtle",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "turtle",
-        "description": "turtle",
-        "detail": "turtle",
-        "documentation": {}
-    },
-    {
-        "label": "ScrolledCanvas",
-        "importPath": "turtle",
-        "description": "turtle",
-        "isExtraImport": true,
-        "detail": "turtle",
-        "documentation": {}
-    },
-    {
-        "label": "delay",
-        "importPath": "turtle",
-        "description": "turtle",
-        "isExtraImport": true,
-        "detail": "turtle",
-        "documentation": {}
-    },
-    {
-        "label": "st",
-        "importPath": "turtle",
-        "description": "turtle",
-        "isExtraImport": true,
-        "detail": "turtle",
-        "documentation": {}
-    },
-    {
-        "label": "ScrolledCanvas",
-        "importPath": "turtle",
-        "description": "turtle",
-        "isExtraImport": true,
-        "detail": "turtle",
-        "documentation": {}
-    },
-    {
-        "label": "ScrolledCanvas",
-        "importPath": "turtle",
-        "description": "turtle",
-        "isExtraImport": true,
-        "detail": "turtle",
-        "documentation": {}
-    },
-    {
-        "label": "ScrolledCanvas",
-        "importPath": "turtle",
-        "description": "turtle",
-        "isExtraImport": true,
-        "detail": "turtle",
-        "documentation": {}
-    },
-    {
-        "label": "delay",
-        "importPath": "turtle",
-        "description": "turtle",
-        "isExtraImport": true,
-        "detail": "turtle",
-        "documentation": {}
-    },
-    {
-        "label": "ScrolledCanvas",
-        "importPath": "turtle",
-        "description": "turtle",
-        "isExtraImport": true,
-        "detail": "turtle",
-        "documentation": {}
-    },
-    {
-        "label": "delay",
-        "importPath": "turtle",
-        "description": "turtle",
-        "isExtraImport": true,
-        "detail": "turtle",
-        "documentation": {}
-    },
-    {
-        "label": "ScrolledCanvas",
-        "importPath": "turtle",
-        "description": "turtle",
-        "isExtraImport": true,
-        "detail": "turtle",
-        "documentation": {}
-    },
-    {
-        "label": "create",
-        "importPath": "venv",
-        "description": "venv",
-        "isExtraImport": true,
-        "detail": "venv",
-        "documentation": {}
-    },
-    {
-        "label": "create",
-        "importPath": "venv",
-        "description": "venv",
-        "isExtraImport": true,
-        "detail": "venv",
-        "documentation": {}
-    },
-    {
-        "label": "create",
-        "importPath": "venv",
-        "description": "venv",
-        "isExtraImport": true,
-        "detail": "venv",
-        "documentation": {}
-    },
-    {
-        "label": "delete",
-        "importPath": "numpy",
-        "description": "numpy",
-        "isExtraImport": true,
-        "detail": "numpy",
-        "documentation": {}
-    },
-    {
-        "label": "delete",
-        "importPath": "numpy",
-        "description": "numpy",
-        "isExtraImport": true,
-        "detail": "numpy",
-        "documentation": {}
-    },
-    {
-        "label": "delete",
-        "importPath": "numpy",
-        "description": "numpy",
-        "isExtraImport": true,
-        "detail": "numpy",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "test2",
-        "description": "test2",
-        "isExtraImport": true,
-        "detail": "test2",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "test2",
-        "description": "test2",
-        "isExtraImport": true,
-        "detail": "test2",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "test2",
-        "description": "test2",
-        "isExtraImport": true,
-        "detail": "test2",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "test2",
-        "description": "test2",
-        "isExtraImport": true,
-        "detail": "test2",
-        "documentation": {}
-    },
-    {
-        "label": "winsound",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "winsound",
-        "description": "winsound",
-        "detail": "winsound",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter.tix",
-        "description": "tkinter.tix",
-        "isExtraImport": true,
-        "detail": "tkinter.tix",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter.tix",
-        "description": "tkinter.tix",
-        "isExtraImport": true,
-        "detail": "tkinter.tix",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter.tix",
-        "description": "tkinter.tix",
-        "isExtraImport": true,
-        "detail": "tkinter.tix",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter.tix",
-        "description": "tkinter.tix",
-        "isExtraImport": true,
-        "detail": "tkinter.tix",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter.tix",
-        "description": "tkinter.tix",
-        "isExtraImport": true,
-        "detail": "tkinter.tix",
-        "documentation": {}
-    },
-    {
-        "label": "*",
-        "importPath": "tkinter.tix",
-        "description": "tkinter.tix",
-        "isExtraImport": true,
-        "detail": "tkinter.tix",
-        "documentation": {}
-    },
-    {
-        "label": "validate",
-        "importPath": "wsgiref",
-        "description": "wsgiref",
-        "isExtraImport": true,
-        "detail": "wsgiref",
-        "documentation": {}
-    },
-    {
-        "label": "main",
-        "importPath": "pip",
-        "description": "pip",
-        "isExtraImport": true,
-        "detail": "pip",
+        "detail": "triAlgs",
         "documentation": {}
     },
     {
@@ -684,1254 +50,309 @@
         "documentation": {}
     },
     {
-        "label": "on_click",
-        "kind": 2,
-        "importPath": "clickon",
-        "description": "clickon",
-        "peekOfCode": "def on_click(event):\n   label[\"text\"]=\"Hello, There!\"\ndef on_release(event):\n   label[\"text\"]=\"Button Released!\"\n# Crate a Label widget\nlabel=Label(win, text=\"Click anywhere..\", font=('Calibri 18 bold'))\nlabel.pack(pady=60)\nwin.bind(\"<ButtonPress-1>\", on_click)\nwin.bind(\"<ButtonRelease-1>\", on_release)\nwin.mainloop()",
-        "detail": "clickon",
-        "documentation": {}
-    },
-    {
-        "label": "on_release",
-        "kind": 2,
-        "importPath": "clickon",
-        "description": "clickon",
-        "peekOfCode": "def on_release(event):\n   label[\"text\"]=\"Button Released!\"\n# Crate a Label widget\nlabel=Label(win, text=\"Click anywhere..\", font=('Calibri 18 bold'))\nlabel.pack(pady=60)\nwin.bind(\"<ButtonPress-1>\", on_click)\nwin.bind(\"<ButtonRelease-1>\", on_release)\nwin.mainloop()",
-        "detail": "clickon",
-        "documentation": {}
-    },
-    {
         "label": "Case",
         "kind": 6,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "class Case(tk.Frame):\n    nbremptycase=0\n    filledlist=[]\n    def __init__(self, parent,j):\n        tk.Frame.__init__(self, parent,bg=\"#ec0062\",borderwidth=1)\n        vcmd = (self.register(self.onValidate),'%P','%s')\n        self.option=tk.Frame(self,bg=\"#ec0062\")\n        self.deleten=tk.Button(self.option,width=24,height=18,image=deletenumberimage,\n        command=lambda : self.removenum(),cursor=\"hand2\")\n        self.deleteb=tk.Button(self.option,width=24,height=18,image=deleteboximage,",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "Newcase",
         "kind": 6,
-        "importPath": "main",
-        "description": "main",
-        "peekOfCode": "class Newcase(tk.Frame):\n    def __init__(self, parent,j):\n        tk.Frame.__init__(self, parent,borderwidth=1,width=1,height=25,bg=\"#3a8cff\",cursor=\"hand2\")\n        self.grid(row=j//20,column=j % 20,padx=3,pady=12)\n        self.id=j//2\n        self.bind(\"<Enter>\",self.displayaddbox)\n        self.bind(\"<Leave>\",self.hideaddbox)\n        self.bind(\"<Button-1>\", self.addbox)    \n    def addbox(self,e,s=0):\n        global cases",
-        "detail": "main",
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "class Newcase(tk.Frame):\n    def __init__(self, parent,j):\n        tk.Frame.__init__(self, parent,borderwidth=1,width=1,height=25,bg=\"#3a8cff\",cursor=\"hand2\")\n        self.grid(row=j//20,column=j % 20,padx=3,pady=12)\n        self.id=j//2\n        self.bind(\"<Enter>\",self.displayaddbox)\n        self.bind(\"<Leave>\",self.hideaddbox)\n        self.bind(\"<Button-1>\", self.addbox)    \n    def addbox(self,s=0):\n        global cases",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "hideerrmsg",
         "kind": 2,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "def hideerrmsg():\n    errormsg.config(text=\"\")\"\"\"\ndef validatenumcase(S,P):\n    if S=='':\n        return True\n    try:\n        if len(P)==1 and S=='0':\n           int('a')\n        int(S)\n        errormsg.config(text=\"\")",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "validatenumcase",
         "kind": 2,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "def validatenumcase(S,P):\n    if S=='':\n        return True\n    try:\n        if len(P)==1 and S=='0':\n           int('a')\n        int(S)\n        errormsg.config(text=\"\")\n        return True\n    except ValueError:",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "clearlist",
         "kind": 2,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "def clearlist():\n    global valueslist\n    global cases\n    cases=[]\n    #newcases=[]\n    valueslist=[]\n    nbrcase.config(state='normal')\n    nbrcase.delete(0,END)\n    restxt.pack_forget()\n    datatxt.pack_forget()",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "creatlist",
         "kind": 2,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "def creatlist(n):\n    global cases\n    global newcases\n    global valueslist\n    valueslist=[]\n    try:\n        n=int(n)\n        if(int(n)<=0):\n            errormsg.configure(text=\"Enter a positive number not null please\")\n        Case.nbremptycase=n",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "trielist",
         "kind": 2,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "def trielist():\n    global cases\n    global valueslist\n    valueslist=[]\n    i=0\n    for  case in cases:\n        valueslist.append(float(case.entry.get()))\n    if typetrie.get()==\"bulle\":\n        bulle(valueslist)\n    elif typetrie.get()==\"insertion\":",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "enterkey",
         "kind": 2,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "def enterkey():\n    try:\n        if creat['state']==tk.DISABLED:\n            print(5/0)\n        creatlist(nbrcase.get())\n    except ZeroDivisionError:\n        trielist()    \ndef clearkey():\n   clearlist()\ndef deletekey():",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "clearkey",
         "kind": 2,
-        "importPath": "main",
-        "description": "main",
-        "peekOfCode": "def clearkey():\n   clearlist()\ndef deletekey():\n   w=instractionfr.focus_get()\n   f=w.master\n   if f.master==data:\n       f.delete()\ndef addrightkey():\n    w=instractionfr.focus_get()\n    f=w.master",
-        "detail": "main",
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def clearkey():\n   clearlist()\ndef deletekey():\n   w=instractionfr.focus_get()\n   f=w.master\n   if f.master==data:\n       f.delete()\ndef removekey():\n   w=instractionfr.focus_get()\n   f=w.master",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "deletekey",
         "kind": 2,
-        "importPath": "main",
-        "description": "main",
-        "peekOfCode": "def deletekey():\n   w=instractionfr.focus_get()\n   f=w.master\n   if f.master==data:\n       f.delete()\ndef addrightkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       newcases[f.id].addbox(e,s=1)",
-        "detail": "main",
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def deletekey():\n   w=instractionfr.focus_get()\n   f=w.master\n   if f.master==data:\n       f.delete()\ndef removekey():\n   w=instractionfr.focus_get()\n   f=w.master\n   if f.master==data:\n       f.removenum()",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "removekey",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def removekey():\n   w=instractionfr.focus_get()\n   f=w.master\n   if f.master==data:\n       f.removenum()\ndef addrightkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       newcases[f.id].addbox(s=1)",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "addrightkey",
         "kind": 2,
-        "importPath": "main",
-        "description": "main",
-        "peekOfCode": "def addrightkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       newcases[f.id].addbox(e,s=1)\ndef addleftkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       newcases[f.id].addbox(e)",
-        "detail": "main",
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def addrightkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       newcases[f.id].addbox(s=1)\ndef addleftkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       newcases[f.id].addbox(s=0)",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "addleftkey",
         "kind": 2,
-        "importPath": "main",
-        "description": "main",
-        "peekOfCode": "def addleftkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       newcases[f.id].addbox(e)\ndef displaycreatdesg(e):\n    buttondes.config(text=\"Create (Enter)\") \ndef displaycleardesg(e):\n    buttondes.config(text=\"Clear (ctrl+c)\")  \ndef displaytriedesg(e):",
-        "detail": "main",
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def addleftkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       newcases[f.id].addbox(s=0)\ndef displaycreatdesg(e):\n    buttondes.config(text=\"Create (Enter)\") \ndef displaycleardesg(e):\n    buttondes.config(text=\"Clear (ctrl+c)\")  \ndef displaytriedesg(e):",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "displaycreatdesg",
         "kind": 2,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "def displaycreatdesg(e):\n    buttondes.config(text=\"Create (Enter)\") \ndef displaycleardesg(e):\n    buttondes.config(text=\"Clear (ctrl+c)\")  \ndef displaytriedesg(e):\n    buttondes.config(text=\"Sort (Enter)\")       \ndef hidedesg(e):\n    buttondes.config(text=\"Add left box (ctrl+l) / Add right box (ctrl+r)\") \n#widgets created\ntypeoftrie=tk.Label(master=instractionfr,text=\"Choose the direction\",font = ('calibre',12,'bold')) ",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "displaycleardesg",
         "kind": 2,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "def displaycleardesg(e):\n    buttondes.config(text=\"Clear (ctrl+c)\")  \ndef displaytriedesg(e):\n    buttondes.config(text=\"Sort (Enter)\")       \ndef hidedesg(e):\n    buttondes.config(text=\"Add left box (ctrl+l) / Add right box (ctrl+r)\") \n#widgets created\ntypeoftrie=tk.Label(master=instractionfr,text=\"Choose the direction\",font = ('calibre',12,'bold')) \nasc = tk.Radiobutton(master=instractionfr, text='ASC',variable=radioValue,value=0,\nfont = ('calibre',10,'bold'),cursor=\"hand2\") ",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "displaytriedesg",
         "kind": 2,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "def displaytriedesg(e):\n    buttondes.config(text=\"Sort (Enter)\")       \ndef hidedesg(e):\n    buttondes.config(text=\"Add left box (ctrl+l) / Add right box (ctrl+r)\") \n#widgets created\ntypeoftrie=tk.Label(master=instractionfr,text=\"Choose the direction\",font = ('calibre',12,'bold')) \nasc = tk.Radiobutton(master=instractionfr, text='ASC',variable=radioValue,value=0,\nfont = ('calibre',10,'bold'),cursor=\"hand2\") \ndesc = tk.Radiobutton(master=instractionfr, text='DESC',variable=radioValue, value=1,\nfont = ('calibre',10,'bold'),cursor=\"hand2\")",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "hidedesg",
         "kind": 2,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "def hidedesg(e):\n    buttondes.config(text=\"Add left box (ctrl+l) / Add right box (ctrl+r)\") \n#widgets created\ntypeoftrie=tk.Label(master=instractionfr,text=\"Choose the direction\",font = ('calibre',12,'bold')) \nasc = tk.Radiobutton(master=instractionfr, text='ASC',variable=radioValue,value=0,\nfont = ('calibre',10,'bold'),cursor=\"hand2\") \ndesc = tk.Radiobutton(master=instractionfr, text='DESC',variable=radioValue, value=1,\nfont = ('calibre',10,'bold'),cursor=\"hand2\")\ntypetext=tk.Label(master=instractionfr,text=\"Pick the type of sorting\",font = ('calibre',12,'bold')) \ntypelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "window",
         "kind": 5,
-        "importPath": "main",
-        "description": "main",
-        "peekOfCode": "window = tk.Tk()\n    #variables \nwindow.geometry('900x600+222+40')\nradioValue = tk.IntVar() \ntypetrie=tk.StringVar()\nvalue=tk.StringVar()\ntrietypes=[\"insertion\",\"bulle\"]\ninstractionfr=tk.Frame(master=window)\nbuttonfr=tk.Frame(master=window)\nsortimage=PhotoImage(file='sort.png')",
-        "detail": "main",
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "window = tk.Tk()\n    #variables \nwindow.geometry('900x600+222+40')\nradioValue = tk.IntVar() \ntypetrie=tk.StringVar()\nvalue=tk.StringVar()\ntrietypes=[\"insertion\",\"bulle\"]\ninstractionfr=tk.Frame(master=window)\nbuttonfr=tk.Frame(master=window)\nsortimage=PhotoImage(file='Icons\\sort.png')",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "radioValue",
         "kind": 5,
-        "importPath": "main",
-        "description": "main",
-        "peekOfCode": "radioValue = tk.IntVar() \ntypetrie=tk.StringVar()\nvalue=tk.StringVar()\ntrietypes=[\"insertion\",\"bulle\"]\ninstractionfr=tk.Frame(master=window)\nbuttonfr=tk.Frame(master=window)\nsortimage=PhotoImage(file='sort.png')\nclearimage=PhotoImage(file='cancel.png')\ncreateimage=PhotoImage(file='table.png')\ndeletenumberimage=PhotoImage(file='deletenumber.png')",
-        "detail": "main",
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "radioValue = tk.IntVar() \ntypetrie=tk.StringVar()\nvalue=tk.StringVar()\ntrietypes=[\"insertion\",\"bulle\"]\ninstractionfr=tk.Frame(master=window)\nbuttonfr=tk.Frame(master=window)\nsortimage=PhotoImage(file='Icons\\sort.png')\nclearimage=PhotoImage(file='Icons\\cancel.png')\ncreateimage=PhotoImage(file='Icons\\\\table.png')\ndeletenumberimage=PhotoImage(file='Icons\\deletenumber.png')",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "frequency",
         "kind": 5,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "frequency = 2000  # Set Frequency To 2500 Hertz\nduration = 200  # Set Duration To 1000 ms == 1 second\n#functions\n\"\"\"def gettype():\n    global nbrcase2\n    nbrcase2=tk.Label(text=typetrie.get()+\"  \"+str(radioValue.get())).pack(padx=5,pady=5)\ndef hideerrmsg():\n    errormsg.config(text=\"\")\"\"\"\ndef validatenumcase(S,P):\n    if S=='':",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "duration",
         "kind": 5,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "duration = 200  # Set Duration To 1000 ms == 1 second\n#functions\n\"\"\"def gettype():\n    global nbrcase2\n    nbrcase2=tk.Label(text=typetrie.get()+\"  \"+str(radioValue.get())).pack(padx=5,pady=5)\ndef hideerrmsg():\n    errormsg.config(text=\"\")\"\"\"\ndef validatenumcase(S,P):\n    if S=='':\n        return True",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "asc",
         "kind": 5,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "asc = tk.Radiobutton(master=instractionfr, text='ASC',variable=radioValue,value=0,\nfont = ('calibre',10,'bold'),cursor=\"hand2\") \ndesc = tk.Radiobutton(master=instractionfr, text='DESC',variable=radioValue, value=1,\nfont = ('calibre',10,'bold'),cursor=\"hand2\")\ntypetext=tk.Label(master=instractionfr,text=\"Pick the type of sorting\",font = ('calibre',12,'bold')) \ntypelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P','%S')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "font",
         "kind": 5,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "font = ('calibre',10,'bold'),cursor=\"hand2\") \ndesc = tk.Radiobutton(master=instractionfr, text='DESC',variable=radioValue, value=1,\nfont = ('calibre',10,'bold'),cursor=\"hand2\")\ntypetext=tk.Label(master=instractionfr,text=\"Pick the type of sorting\",font = ('calibre',12,'bold')) \ntypelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P','%S')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "desc",
         "kind": 5,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "desc = tk.Radiobutton(master=instractionfr, text='DESC',variable=radioValue, value=1,\nfont = ('calibre',10,'bold'),cursor=\"hand2\")\ntypetext=tk.Label(master=instractionfr,text=\"Pick the type of sorting\",font = ('calibre',12,'bold')) \ntypelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P','%S')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",\n                  validatecommand=vncmd,font = ('calibre',12,'bold'))",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "font",
         "kind": 5,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypetext=tk.Label(master=instractionfr,text=\"Pick the type of sorting\",font = ('calibre',12,'bold')) \ntypelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P','%S')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",\n                  validatecommand=vncmd,font = ('calibre',12,'bold'))\nnbrcase.focus_set()      ",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "typelist",
         "kind": 5,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "typelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P','%S')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",\n                  validatecommand=vncmd,font = ('calibre',12,'bold'))\nnbrcase.focus_set()      \ncreat=tk.Button(master=buttonfr,image=createimage,command= lambda :creatlist(nbrcase.get()),\n                font = ('calibre',12,'bold') ,width=40,height=40,cursor=\"hand2\")",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "vncmd",
         "kind": 5,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "vncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P','%S')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",\n                  validatecommand=vncmd,font = ('calibre',12,'bold'))\nnbrcase.focus_set()      \ncreat=tk.Button(master=buttonfr,image=createimage,command= lambda :creatlist(nbrcase.get()),\n                font = ('calibre',12,'bold') ,width=40,height=40,cursor=\"hand2\")\nclear=tk.Button(master=buttonfr,image=clearimage,command= lambda :clearlist(),state=DISABLED,\n               font = ('calibre',12,'bold'),width=40,height=40,cursor=\"arrow\")\ntrie=tk.Button(master=buttonfr,image=sortimage,command= lambda :trielist(),",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "state=DISABLED,font",
         "kind": 5,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "state=DISABLED,font = ('calibre',12,'bold'),width=40,height=40,cursor=\"arrow\")\nerrormsg=tk.Label(master=instractionfr,text=\"\",fg=\"red\",font = ('calibre',12,'bold'))\nlimitexceeded=tk.Label(master=window,text=\"\",font = ('calibre',12,'bold'),fg=\"red\")\ndatatxt=tk.Label(master=datadesig,text=\"Fill the boxes:\",font = ('calibre',12,'bold'))\nbuttondes=tk.Label(window,text=\"\",bd=1,relief=SUNKEN,anchor=E)\n#tip.bind_widget(clear,balloonmsg=\"Creat (ctrl+c)\")\n\"\"\"#Create a tooltip\ntip= Balloon(window)\n#Create a Button widget\nmy_button=Button(window, text= \"Python\", font=('Helvetica bold', 20))",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "errormsg=tk.Label(master=instractionfr,text=\"\",fg=\"red\",font",
         "kind": 5,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "errormsg=tk.Label(master=instractionfr,text=\"\",fg=\"red\",font = ('calibre',12,'bold'))\nlimitexceeded=tk.Label(master=window,text=\"\",font = ('calibre',12,'bold'),fg=\"red\")\ndatatxt=tk.Label(master=datadesig,text=\"Fill the boxes:\",font = ('calibre',12,'bold'))\nbuttondes=tk.Label(window,text=\"\",bd=1,relief=SUNKEN,anchor=E)\n#tip.bind_widget(clear,balloonmsg=\"Creat (ctrl+c)\")\n\"\"\"#Create a tooltip\ntip= Balloon(window)\n#Create a Button widget\nmy_button=Button(window, text= \"Python\", font=('Helvetica bold', 20))\nmy_button.pack(pady=20)",
-        "detail": "main",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "limitexceeded=tk.Label(master=window,text=\"\",font",
         "kind": 5,
-        "importPath": "main",
-        "description": "main",
+        "importPath": "app",
+        "description": "app",
         "peekOfCode": "limitexceeded=tk.Label(master=window,text=\"\",font = ('calibre',12,'bold'),fg=\"red\")\ndatatxt=tk.Label(master=datadesig,text=\"Fill the boxes:\",font = ('calibre',12,'bold'))\nbuttondes=tk.Label(window,text=\"\",bd=1,relief=SUNKEN,anchor=E)\n#tip.bind_widget(clear,balloonmsg=\"Creat (ctrl+c)\")\n\"\"\"#Create a tooltip\ntip= Balloon(window)\n#Create a Button widget\nmy_button=Button(window, text= \"Python\", font=('Helvetica bold', 20))\nmy_button.pack(pady=20)\n#Bind the tooltip with button",
-        "detail": "main",
-        "documentation": {}
-    },
-    {
-        "label": "Example",
-        "kind": 6,
-        "importPath": "radio",
-        "description": "radio",
-        "peekOfCode": "class Example(tk.Frame):\n    def __init__(self, parent):\n        tk.Frame.__init__(self, parent)\n        # valid percent substitutions (from the Tk entry man page)\n        # note: you only have to register the ones you need; this\n        # example registers them all for illustrative purposes\n        #\n        # %d = Type of action (1=insert, 0=delete, -1 for others)\n        # %i = index of char string to be inserted/deleted, or -1\n        # %P = value of the entry if the edit is allowed",
-        "detail": "radio",
-        "documentation": {}
-    },
-    {
-        "label": "Case",
-        "kind": 6,
-        "importPath": "reserve",
-        "description": "reserve",
-        "peekOfCode": "class Case(tk.Frame):\n    nbremptycase=0\n    filledlist=[]\n    def __init__(self, parent,j):\n        tk.Frame.__init__(self, parent,bg=\"#ec0062\",borderwidth=1)\n        vcmd = (self.register(self.onValidate),'%S','%P')\n        self.label=tk.Label(self,text=f\"Index : {j+1}\",bg=\"#ec0062\")\n        self.entry = tk.Entry(self,justify=CENTER, width=10,\n        validate=\"key\", validatecommand=vcmd)\n        self.label.pack()",
-        "detail": "reserve",
-        "documentation": {}
-    },
-    {
-        "label": "addemptycase",
-        "kind": 2,
-        "importPath": "reserve",
-        "description": "reserve",
-        "peekOfCode": "def addemptycase(n):\n    global cases\n    try: \n        n=int(n)\n    except ValueError:\n        n=0\n    for widget in result.winfo_children():\n          widget.destroy() \n    cases.append(Case(data,n))\n    nbrcase.configure(state='normal')",
-        "detail": "reserve",
-        "documentation": {}
-    },
-    {
-        "label": "gettype",
-        "kind": 2,
-        "importPath": "reserve",
-        "description": "reserve",
-        "peekOfCode": "def gettype():\n    global nbrcase2\n    nbrcase2=tk.Label(text=typetrie.get()+\"  \"+str(radioValue.get())).pack(padx=5,pady=5)\ndef fillcase():\n      pass\ndef clearlist():\n    global valueslist\n    global cases\n    cases=[]\n    valueslist=[]",
-        "detail": "reserve",
-        "documentation": {}
-    },
-    {
-        "label": "fillcase",
-        "kind": 2,
-        "importPath": "reserve",
-        "description": "reserve",
-        "peekOfCode": "def fillcase():\n      pass\ndef clearlist():\n    global valueslist\n    global cases\n    cases=[]\n    valueslist=[]\n    for widget in data.winfo_children():\n          widget.destroy()\n    for widget in result.winfo_children():",
-        "detail": "reserve",
-        "documentation": {}
-    },
-    {
-        "label": "clearlist",
-        "kind": 2,
-        "importPath": "reserve",
-        "description": "reserve",
-        "peekOfCode": "def clearlist():\n    global valueslist\n    global cases\n    cases=[]\n    valueslist=[]\n    for widget in data.winfo_children():\n          widget.destroy()\n    for widget in result.winfo_children():\n          widget.destroy() \n    trie.configure(state='disabled')",
-        "detail": "reserve",
-        "documentation": {}
-    },
-    {
-        "label": "creatlist",
-        "kind": 2,
-        "importPath": "reserve",
-        "description": "reserve",
-        "peekOfCode": "def creatlist(n):\n    global cases\n    global valueslist\n    valueslist=[]\n    try:\n        if(int(n)<0):\n            print(2/0)\n        n=int(n)\n        Case.nbremptycase=n\n        Case.filledlist=[0]*n",
-        "detail": "reserve",
-        "documentation": {}
-    },
-    {
-        "label": "trielist",
-        "kind": 2,
-        "importPath": "reserve",
-        "description": "reserve",
-        "peekOfCode": "def trielist():\n    global cases\n    global valueslist\n    valueslist=[]\n    i=0\n    for  case in cases:\n        valueslist.append(float(case.entry.get()))\n    if typetrie.get()==\"bulle\":\n        bulle(valueslist)\n    elif typetrie.get()==\"insertion\":",
-        "detail": "reserve",
-        "documentation": {}
-    },
-    {
-        "label": "window",
-        "kind": 5,
-        "importPath": "reserve",
-        "description": "reserve",
-        "peekOfCode": "window = tk.Tk()\n    #variables\nwindow.geometry('900x600+220+40')\nradioValue = tk.IntVar() \ntypetrie=tk.StringVar()\nvalue=tk.StringVar()\ntrietypes=[\"insertion\",\"bulle\"]\ndata=tk.Frame(master=window)\nresult=tk.Frame(master=window)\ncases=[]",
-        "detail": "reserve",
-        "documentation": {}
-    },
-    {
-        "label": "radioValue",
-        "kind": 5,
-        "importPath": "reserve",
-        "description": "reserve",
-        "peekOfCode": "radioValue = tk.IntVar() \ntypetrie=tk.StringVar()\nvalue=tk.StringVar()\ntrietypes=[\"insertion\",\"bulle\"]\ndata=tk.Frame(master=window)\nresult=tk.Frame(master=window)\ncases=[]\nvalueslist=[]\n#functions\ndef addemptycase(n):",
-        "detail": "reserve",
-        "documentation": {}
-    },
-    {
-        "label": "asc",
-        "kind": 5,
-        "importPath": "reserve",
-        "description": "reserve",
-        "peekOfCode": "asc = tk.Radiobutton(window, text='ASC',variable=radioValue,value=0) \ndesc = tk.Radiobutton(window, text='DESC',variable=radioValue, value=1)\ntypetext=tk.Label(text=\"Pick an trie's type\") \ntypelist = ttk.Combobox( values = trietypes,textvariable=typetrie)\ntypelist.set(\"socktrie\")\nnbrtext=tk.Label(text=\"Enter the list's length\")\nnbrcase=tk.Entry()      \ncreat=tk.Button(window,text=\"Creat\",command= lambda :creatlist(nbrcase.get()))\nclear=tk.Button(window,text=\"Clear\",command= lambda :clearlist(),state=DISABLED)\naddcase=tk.Button(window,text=\"Add case\",command=lambda : addemptycase(nbrcase.get()),state=DISABLED)",
-        "detail": "reserve",
-        "documentation": {}
-    },
-    {
-        "label": "desc",
-        "kind": 5,
-        "importPath": "reserve",
-        "description": "reserve",
-        "peekOfCode": "desc = tk.Radiobutton(window, text='DESC',variable=radioValue, value=1)\ntypetext=tk.Label(text=\"Pick an trie's type\") \ntypelist = ttk.Combobox( values = trietypes,textvariable=typetrie)\ntypelist.set(\"socktrie\")\nnbrtext=tk.Label(text=\"Enter the list's length\")\nnbrcase=tk.Entry()      \ncreat=tk.Button(window,text=\"Creat\",command= lambda :creatlist(nbrcase.get()))\nclear=tk.Button(window,text=\"Clear\",command= lambda :clearlist(),state=DISABLED)\naddcase=tk.Button(window,text=\"Add case\",command=lambda : addemptycase(nbrcase.get()),state=DISABLED)\ntrie=tk.Button(window,text=\"Sort\",command= lambda :trielist(),state=DISABLED)",
-        "detail": "reserve",
-        "documentation": {}
-    },
-    {
-        "label": "typelist",
-        "kind": 5,
-        "importPath": "reserve",
-        "description": "reserve",
-        "peekOfCode": "typelist = ttk.Combobox( values = trietypes,textvariable=typetrie)\ntypelist.set(\"socktrie\")\nnbrtext=tk.Label(text=\"Enter the list's length\")\nnbrcase=tk.Entry()      \ncreat=tk.Button(window,text=\"Creat\",command= lambda :creatlist(nbrcase.get()))\nclear=tk.Button(window,text=\"Clear\",command= lambda :clearlist(),state=DISABLED)\naddcase=tk.Button(window,text=\"Add case\",command=lambda : addemptycase(nbrcase.get()),state=DISABLED)\ntrie=tk.Button(window,text=\"Sort\",command= lambda :trielist(),state=DISABLED)\nerrormsg=tk.Label(text=\"\")\nlimitexceeded=tk.Label(text=\"\")",
-        "detail": "reserve",
-        "documentation": {}
-    },
-    {
-        "label": "typelist.pack(padx",
-        "kind": 5,
-        "importPath": "reserve",
-        "description": "reserve",
-        "peekOfCode": "typelist.pack(padx = 5, pady = 5)\nnbrtext.pack(padx=5,pady=5)\nnbrcase.pack(padx=5, pady=5)\nerrormsg.pack(padx=5,pady=5)\ncreat.pack(padx=5, pady=5)\nclear.pack(padx=5, pady=5)\naddcase.pack(padx=5,pady=5)\ntrie.pack(padx=5,pady=5)\nlimitexceeded.pack(padx=5,pady=5)\ndata.pack()",
-        "detail": "reserve",
-        "documentation": {}
-    },
-    {
-        "label": "Case",
-        "kind": 6,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "class Case(tk.Frame):\n    nbremptycase=0\n    filledlist=[]\n    def __init__(self, parent,j):\n        tk.Frame.__init__(self, parent,bg=\"#ec0062\",borderwidth=1)\n        vcmd = (self.register(self.onValidate),'%P','%s')\n        self.option=tk.Frame(self)\n        self.addleftb=tk.Button(self.option,width=18,height=18,image=leftimage,\n        command=lambda : self.addbox(-1),cursor=\"hand2\")\n        self.addrightb=tk.Button(self.option,width=18,height=18,image=rightimage,",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "gettype",
-        "kind": 2,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "def gettype():\n    global nbrcase2\n    nbrcase2=tk.Label(text=typetrie.get()+\"  \"+str(radioValue.get())).pack(padx=5,pady=5)\ndef hideerrmsg():\n    errormsg.config(text=\"\")\ndef validatenumcase(S):\n    if S=='':\n        return True\n    try:\n        int(S)",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "hideerrmsg",
-        "kind": 2,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "def hideerrmsg():\n    errormsg.config(text=\"\")\ndef validatenumcase(S):\n    if S=='':\n        return True\n    try:\n        int(S)\n        errormsg.config(text=\"\")\n        return True\n    except ValueError:",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "validatenumcase",
-        "kind": 2,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "def validatenumcase(S):\n    if S=='':\n        return True\n    try:\n        int(S)\n        errormsg.config(text=\"\")\n        return True\n    except ValueError:\n        \"\"\"winsound.Beep(frequency, duration)\"\"\"\n        window.bell()",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "clearlist",
-        "kind": 2,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "def clearlist():\n    global valueslist\n    global cases\n    cases=[]\n    valueslist=[]\n    nbrcase.config(state='normal')\n    nbrcase.delete(0,END)\n    restxt.pack_forget()\n    datatxt.pack_forget()\n    for widget in data.winfo_children():",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "creatlist",
-        "kind": 2,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "def creatlist(n):\n    global cases\n    global valueslist\n    valueslist=[]\n    try:\n        n=int(n)\n        if(int(n)<=0):\n            errormsg.configure(text=\"Enter a positive number not null please\")\n        Case.nbremptycase=n\n        Case.filledlist=[0]*n",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "trielist",
-        "kind": 2,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "def trielist():\n    global cases\n    global valueslist\n    valueslist=[]\n    i=0\n    for  case in cases:\n        valueslist.append(float(case.entry.get()))\n    if typetrie.get()==\"bulle\":\n        bulle(valueslist)\n    elif typetrie.get()==\"insertion\":",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "enterkey",
-        "kind": 2,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "def enterkey():\n    try:\n        if creat['state']==tk.DISABLED:\n            print(5/0)\n        creatlist(nbrcase.get())\n    except ZeroDivisionError:\n        trielist()    \ndef clearkey():\n   clearlist()\ndef deletekey():",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "clearkey",
-        "kind": 2,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "def clearkey():\n   clearlist()\ndef deletekey():\n   w=instractionfr.focus_get()\n   f=w.master\n   if f.master==data:\n       f.delete()\ndef addrightkey():\n    w=instractionfr.focus_get()\n    f=w.master",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "deletekey",
-        "kind": 2,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "def deletekey():\n   w=instractionfr.focus_get()\n   f=w.master\n   if f.master==data:\n       f.delete()\ndef addrightkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       f.addbox(1)",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "addrightkey",
-        "kind": 2,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "def addrightkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       f.addbox(1)\ndef addleftkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       f.addbox(-1)",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "addleftkey",
-        "kind": 2,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "def addleftkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       f.addbox(-1)\n#widgets created\ntypeoftrie=tk.Label(master=instractionfr,text=\"Choose the direction\",font = ('calibre',12,'bold')) \nasc = tk.Radiobutton(master=instractionfr, text='ASC',variable=radioValue,value=0,\nfont = ('calibre',10,'bold'),cursor=\"hand2\") \ndesc = tk.Radiobutton(master=instractionfr, text='DESC',variable=radioValue, value=1,",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "window",
-        "kind": 5,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "window = tk.Tk()\n    #variables\nwindow.geometry('900x600+220+40')\nradioValue = tk.IntVar() \ntypetrie=tk.StringVar()\nvalue=tk.StringVar()\ntrietypes=[\"insertion\",\"bulle\"]\ninstractionfr=tk.Frame(master=window)\nbuttonfr=tk.Frame(master=window)\nsortimage=PhotoImage(file='sort.png')",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "radioValue",
-        "kind": 5,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "radioValue = tk.IntVar() \ntypetrie=tk.StringVar()\nvalue=tk.StringVar()\ntrietypes=[\"insertion\",\"bulle\"]\ninstractionfr=tk.Frame(master=window)\nbuttonfr=tk.Frame(master=window)\nsortimage=PhotoImage(file='sort.png')\nclearimage=PhotoImage(file='cancel.png')\ncreateimage=PhotoImage(file='table.png')\nleftimage=PhotoImage(file='left.png')",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "frequency",
-        "kind": 5,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "frequency = 2000  # Set Frequency To 2500 Hertz\nduration = 200  # Set Duration To 1000 ms == 1 second\n#functions\ndef gettype():\n    global nbrcase2\n    nbrcase2=tk.Label(text=typetrie.get()+\"  \"+str(radioValue.get())).pack(padx=5,pady=5)\ndef hideerrmsg():\n    errormsg.config(text=\"\")\ndef validatenumcase(S):\n    if S=='':",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "duration",
-        "kind": 5,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "duration = 200  # Set Duration To 1000 ms == 1 second\n#functions\ndef gettype():\n    global nbrcase2\n    nbrcase2=tk.Label(text=typetrie.get()+\"  \"+str(radioValue.get())).pack(padx=5,pady=5)\ndef hideerrmsg():\n    errormsg.config(text=\"\")\ndef validatenumcase(S):\n    if S=='':\n        return True",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "asc",
-        "kind": 5,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "asc = tk.Radiobutton(master=instractionfr, text='ASC',variable=radioValue,value=0,\nfont = ('calibre',10,'bold'),cursor=\"hand2\") \ndesc = tk.Radiobutton(master=instractionfr, text='DESC',variable=radioValue, value=1,\nfont = ('calibre',10,'bold'),cursor=\"hand2\")\ntypetext=tk.Label(master=instractionfr,text=\"Pick the type of sorting\",font = ('calibre',12,'bold')) \ntypelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "font",
-        "kind": 5,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "font = ('calibre',10,'bold'),cursor=\"hand2\") \ndesc = tk.Radiobutton(master=instractionfr, text='DESC',variable=radioValue, value=1,\nfont = ('calibre',10,'bold'),cursor=\"hand2\")\ntypetext=tk.Label(master=instractionfr,text=\"Pick the type of sorting\",font = ('calibre',12,'bold')) \ntypelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "desc",
-        "kind": 5,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "desc = tk.Radiobutton(master=instractionfr, text='DESC',variable=radioValue, value=1,\nfont = ('calibre',10,'bold'),cursor=\"hand2\")\ntypetext=tk.Label(master=instractionfr,text=\"Pick the type of sorting\",font = ('calibre',12,'bold')) \ntypelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",\n                  validatecommand=vncmd,font = ('calibre',12,'bold'))",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "font",
-        "kind": 5,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypetext=tk.Label(master=instractionfr,text=\"Pick the type of sorting\",font = ('calibre',12,'bold')) \ntypelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",\n                  validatecommand=vncmd,font = ('calibre',12,'bold'))\nnbrcase.focus_set()      ",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "typelist",
-        "kind": 5,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "typelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",\n                  validatecommand=vncmd,font = ('calibre',12,'bold'))\nnbrcase.focus_set()      \ncreat=tk.Button(master=buttonfr,image=createimage,command= lambda :creatlist(nbrcase.get()),\n                font = ('calibre',12,'bold') ,width=40,height=40,cursor=\"hand2\")",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "vncmd",
-        "kind": 5,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "vncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",\n                  validatecommand=vncmd,font = ('calibre',12,'bold'))\nnbrcase.focus_set()      \ncreat=tk.Button(master=buttonfr,image=createimage,command= lambda :creatlist(nbrcase.get()),\n                font = ('calibre',12,'bold') ,width=40,height=40,cursor=\"hand2\")\nclear=tk.Button(master=buttonfr,image=clearimage,command= lambda :clearlist(),state=DISABLED,\n               font = ('calibre',12,'bold'),width=40,height=40,cursor=\"arrow\")\ntrie=tk.Button(master=buttonfr,image=sortimage,command= lambda :trielist(),",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "state=DISABLED,font",
-        "kind": 5,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "state=DISABLED,font = ('calibre',12,'bold'),width=40,height=40,cursor=\"arrow\")\nerrormsg=tk.Label(master=instractionfr,text=\"\",fg=\"red\",font = ('calibre',12,'bold'))\nlimitexceeded=tk.Label(master=window,text=\"\",font = ('calibre',12,'bold'),fg=\"red\")\ndatatxt=tk.Label(master=datadesig,text=\"Fill the boxes:\",font = ('calibre',12,'bold'))\n\"\"\"#Create a tooltip\ntip= Balloon(window)\n#Create a Button widget\nmy_button=Button(window, text= \"Python\", font=('Helvetica bold', 20))\nmy_button.pack(pady=20)\n#Bind the tooltip with button",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "errormsg=tk.Label(master=instractionfr,text=\"\",fg=\"red\",font",
-        "kind": 5,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "errormsg=tk.Label(master=instractionfr,text=\"\",fg=\"red\",font = ('calibre',12,'bold'))\nlimitexceeded=tk.Label(master=window,text=\"\",font = ('calibre',12,'bold'),fg=\"red\")\ndatatxt=tk.Label(master=datadesig,text=\"Fill the boxes:\",font = ('calibre',12,'bold'))\n\"\"\"#Create a tooltip\ntip= Balloon(window)\n#Create a Button widget\nmy_button=Button(window, text= \"Python\", font=('Helvetica bold', 20))\nmy_button.pack(pady=20)\n#Bind the tooltip with button\ntip.bind_widget(my_button,balloonmsg=\"Python programming language\")\"\"\"",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "limitexceeded=tk.Label(master=window,text=\"\",font",
-        "kind": 5,
-        "importPath": "reserve2",
-        "description": "reserve2",
-        "peekOfCode": "limitexceeded=tk.Label(master=window,text=\"\",font = ('calibre',12,'bold'),fg=\"red\")\ndatatxt=tk.Label(master=datadesig,text=\"Fill the boxes:\",font = ('calibre',12,'bold'))\n\"\"\"#Create a tooltip\ntip= Balloon(window)\n#Create a Button widget\nmy_button=Button(window, text= \"Python\", font=('Helvetica bold', 20))\nmy_button.pack(pady=20)\n#Bind the tooltip with button\ntip.bind_widget(my_button,balloonmsg=\"Python programming language\")\"\"\"\n#emplacement of Widgets",
-        "detail": "reserve2",
-        "documentation": {}
-    },
-    {
-        "label": "on_configure",
-        "kind": 2,
-        "importPath": "scrolltest",
-        "description": "scrolltest",
-        "peekOfCode": "def on_configure(event):\n    # update scrollregion after starting 'mainloop'\n    # when all widgets are in canvas\n    canvas.configure(scrollregion=canvas.bbox('all'))\nroot = tk.Tk()\n# --- create canvas with scrollbar ---\ncanvas = tk.Canvas(root)\ncanvas.pack(side=tk.LEFT)\nscrollbar = tk.Scrollbar(root, command=canvas.yview)\nscrollbar.pack(side=tk.LEFT, fill='y')",
-        "detail": "scrolltest",
-        "documentation": {}
-    },
-    {
-        "label": "canvas",
-        "kind": 5,
-        "importPath": "scrolltest",
-        "description": "scrolltest",
-        "peekOfCode": "canvas = tk.Canvas(parent, width=150, height=150)\ncanvas.create_oval(10, 10, 20, 20, fill=\"red\")\ncanvas.create_oval(200, 200, 220, 220, fill=\"blue\")\ncanvas.grid(row=0, column=0)\nscroll_x = tk.Scrollbar(parent, orient=\"horizontal\", command=canvas.xview)\nscroll_x.grid(row=1, column=0, sticky=\"ew\")\nscroll_y = tk.Scrollbar(parent, orient=\"vertical\", command=canvas.yview)\nscroll_y.grid(row=0, column=1, sticky=\"ns\")\ncanvas.configure(yscrollcommand=scroll_y.set, xscrollcommand=scroll_x.set)\nparent.mainloop()\"\"\"",
-        "detail": "scrolltest",
-        "documentation": {}
-    },
-    {
-        "label": "scroll_x",
-        "kind": 5,
-        "importPath": "scrolltest",
-        "description": "scrolltest",
-        "peekOfCode": "scroll_x = tk.Scrollbar(parent, orient=\"horizontal\", command=canvas.xview)\nscroll_x.grid(row=1, column=0, sticky=\"ew\")\nscroll_y = tk.Scrollbar(parent, orient=\"vertical\", command=canvas.yview)\nscroll_y.grid(row=0, column=1, sticky=\"ns\")\ncanvas.configure(yscrollcommand=scroll_y.set, xscrollcommand=scroll_x.set)\nparent.mainloop()\"\"\"\nimport tkinter as tk\ndef on_configure(event):\n    # update scrollregion after starting 'mainloop'\n    # when all widgets are in canvas",
-        "detail": "scrolltest",
-        "documentation": {}
-    },
-    {
-        "label": "scroll_y",
-        "kind": 5,
-        "importPath": "scrolltest",
-        "description": "scrolltest",
-        "peekOfCode": "scroll_y = tk.Scrollbar(parent, orient=\"vertical\", command=canvas.yview)\nscroll_y.grid(row=0, column=1, sticky=\"ns\")\ncanvas.configure(yscrollcommand=scroll_y.set, xscrollcommand=scroll_x.set)\nparent.mainloop()\"\"\"\nimport tkinter as tk\ndef on_configure(event):\n    # update scrollregion after starting 'mainloop'\n    # when all widgets are in canvas\n    canvas.configure(scrollregion=canvas.bbox('all'))\nroot = tk.Tk()",
-        "detail": "scrolltest",
-        "documentation": {}
-    },
-    {
-        "label": "root",
-        "kind": 5,
-        "importPath": "scrolltest",
-        "description": "scrolltest",
-        "peekOfCode": "root = tk.Tk()\n# --- create canvas with scrollbar ---\ncanvas = tk.Canvas(root)\ncanvas.pack(side=tk.LEFT)\nscrollbar = tk.Scrollbar(root, command=canvas.yview)\nscrollbar.pack(side=tk.LEFT, fill='y')\ncanvas.configure(yscrollcommand = scrollbar.set)\n# update scrollregion after starting 'mainloop'\n# when all widgets are in canvas\ncanvas.bind('<Configure>', on_configure)",
-        "detail": "scrolltest",
-        "documentation": {}
-    },
-    {
-        "label": "canvas",
-        "kind": 5,
-        "importPath": "scrolltest",
-        "description": "scrolltest",
-        "peekOfCode": "canvas = tk.Canvas(root)\ncanvas.pack(side=tk.LEFT)\nscrollbar = tk.Scrollbar(root, command=canvas.yview)\nscrollbar.pack(side=tk.LEFT, fill='y')\ncanvas.configure(yscrollcommand = scrollbar.set)\n# update scrollregion after starting 'mainloop'\n# when all widgets are in canvas\ncanvas.bind('<Configure>', on_configure)\n# --- put frame in canvas ---\nframe = tk.Frame(canvas)",
-        "detail": "scrolltest",
-        "documentation": {}
-    },
-    {
-        "label": "scrollbar",
-        "kind": 5,
-        "importPath": "scrolltest",
-        "description": "scrolltest",
-        "peekOfCode": "scrollbar = tk.Scrollbar(root, command=canvas.yview)\nscrollbar.pack(side=tk.LEFT, fill='y')\ncanvas.configure(yscrollcommand = scrollbar.set)\n# update scrollregion after starting 'mainloop'\n# when all widgets are in canvas\ncanvas.bind('<Configure>', on_configure)\n# --- put frame in canvas ---\nframe = tk.Frame(canvas)\ncanvas.create_window((0,0), window=frame, anchor='nw')\n# --- add widgets in frame ---",
-        "detail": "scrolltest",
-        "documentation": {}
-    },
-    {
-        "label": "canvas.configure(yscrollcommand",
-        "kind": 5,
-        "importPath": "scrolltest",
-        "description": "scrolltest",
-        "peekOfCode": "canvas.configure(yscrollcommand = scrollbar.set)\n# update scrollregion after starting 'mainloop'\n# when all widgets are in canvas\ncanvas.bind('<Configure>', on_configure)\n# --- put frame in canvas ---\nframe = tk.Frame(canvas)\ncanvas.create_window((0,0), window=frame, anchor='nw')\n# --- add widgets in frame ---\nl = tk.Label(frame, text=\"Hello\", font=\"-size 50\")\nl.pack()",
-        "detail": "scrolltest",
-        "documentation": {}
-    },
-    {
-        "label": "frame",
-        "kind": 5,
-        "importPath": "scrolltest",
-        "description": "scrolltest",
-        "peekOfCode": "frame = tk.Frame(canvas)\ncanvas.create_window((0,0), window=frame, anchor='nw')\n# --- add widgets in frame ---\nl = tk.Label(frame, text=\"Hello\", font=\"-size 50\")\nl.pack()\nl = tk.Label(frame, text=\"World\", font=\"-size 50\")\nl.pack()\nl = tk.Label(frame, text=\"Test text 1\\nTest text 2\\nTest text 3\\nTest text 4\\nTest text 5\\nTest text 6\\nTest text 7\\nTest text 8\\nTest text 9\", font=\"-size 20\")\nl.pack()\n# --- start program ---",
-        "detail": "scrolltest",
-        "documentation": {}
-    },
-    {
-        "label": "l",
-        "kind": 5,
-        "importPath": "scrolltest",
-        "description": "scrolltest",
-        "peekOfCode": "l = tk.Label(frame, text=\"Hello\", font=\"-size 50\")\nl.pack()\nl = tk.Label(frame, text=\"World\", font=\"-size 50\")\nl.pack()\nl = tk.Label(frame, text=\"Test text 1\\nTest text 2\\nTest text 3\\nTest text 4\\nTest text 5\\nTest text 6\\nTest text 7\\nTest text 8\\nTest text 9\", font=\"-size 20\")\nl.pack()\n# --- start program ---\nroot.mainloop()",
-        "detail": "scrolltest",
-        "documentation": {}
-    },
-    {
-        "label": "l",
-        "kind": 5,
-        "importPath": "scrolltest",
-        "description": "scrolltest",
-        "peekOfCode": "l = tk.Label(frame, text=\"World\", font=\"-size 50\")\nl.pack()\nl = tk.Label(frame, text=\"Test text 1\\nTest text 2\\nTest text 3\\nTest text 4\\nTest text 5\\nTest text 6\\nTest text 7\\nTest text 8\\nTest text 9\", font=\"-size 20\")\nl.pack()\n# --- start program ---\nroot.mainloop()",
-        "detail": "scrolltest",
-        "documentation": {}
-    },
-    {
-        "label": "l",
-        "kind": 5,
-        "importPath": "scrolltest",
-        "description": "scrolltest",
-        "peekOfCode": "l = tk.Label(frame, text=\"Test text 1\\nTest text 2\\nTest text 3\\nTest text 4\\nTest text 5\\nTest text 6\\nTest text 7\\nTest text 8\\nTest text 9\", font=\"-size 20\")\nl.pack()\n# --- start program ---\nroot.mainloop()",
-        "detail": "scrolltest",
-        "documentation": {}
-    },
-    {
-        "label": "Case",
-        "kind": 6,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "class Case(tk.Frame):\n    nbremptycase=0\n    filledlist=[]\n    def __init__(self, parent,j):\n        tk.Frame.__init__(self, parent,bg=\"#ec0062\",borderwidth=1)\n        vcmd = (self.register(self.onValidate),'%P','%s')\n        self.option=tk.Frame(self)\n        self.addleftb=tk.Button(self.option,width=18,height=18,image=leftimage,\n        command=lambda : self.addbox(-1),cursor=\"hand2\")\n        self.addrightb=tk.Button(self.option,width=18,height=18,image=rightimage,",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "hideerrmsg",
-        "kind": 2,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "def hideerrmsg():\n    errormsg.config(text=\"\")\"\"\"\ndef validatenumcase(S):\n    if S=='':\n        return True\n    try:\n        int(S)\n        errormsg.config(text=\"\")\n        return True\n    except ValueError:",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "validatenumcase",
-        "kind": 2,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "def validatenumcase(S):\n    if S=='':\n        return True\n    try:\n        int(S)\n        errormsg.config(text=\"\")\n        return True\n    except ValueError:\n        \"\"\"winsound.Beep(frequency, duration)\"\"\"\n        window.bell()",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "clearlist",
-        "kind": 2,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "def clearlist():\n    global valueslist\n    global cases\n    cases=[]\n    valueslist=[]\n    nbrcase.config(state='normal')\n    nbrcase.delete(0,END)\n    restxt.pack_forget()\n    datatxt.pack_forget()\n    for widget in data.winfo_children():",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "creatlist",
-        "kind": 2,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "def creatlist(n):\n    global cases\n    global valueslist\n    valueslist=[]\n    try:\n        n=int(n)\n        if(int(n)<=0):\n            errormsg.configure(text=\"Enter a positive number not null please\")\n        Case.nbremptycase=n\n        Case.filledlist=[0]*n",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "trielist",
-        "kind": 2,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "def trielist():\n    global cases\n    global valueslist\n    valueslist=[]\n    i=0\n    for  case in cases:\n        valueslist.append(float(case.entry.get()))\n    if typetrie.get()==\"bulle\":\n        bulle(valueslist)\n    elif typetrie.get()==\"insertion\":",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "enterkey",
-        "kind": 2,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "def enterkey():\n    try:\n        if creat['state']==tk.DISABLED:\n            print(5/0)\n        creatlist(nbrcase.get())\n    except ZeroDivisionError:\n        trielist()    \ndef clearkey():\n   clearlist()\ndef deletekey():",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "clearkey",
-        "kind": 2,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "def clearkey():\n   clearlist()\ndef deletekey():\n   w=instractionfr.focus_get()\n   f=w.master\n   if f.master==data:\n       f.delete()\ndef addrightkey():\n    w=instractionfr.focus_get()\n    f=w.master",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "deletekey",
-        "kind": 2,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "def deletekey():\n   w=instractionfr.focus_get()\n   f=w.master\n   if f.master==data:\n       f.delete()\ndef addrightkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       f.addbox(1)",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "addrightkey",
-        "kind": 2,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "def addrightkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       f.addbox(1)\ndef addleftkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       f.addbox(-1)",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "addleftkey",
-        "kind": 2,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "def addleftkey():\n    w=instractionfr.focus_get()\n    f=w.master\n    if f.master==data:\n       f.addbox(-1)\ndef displaydesig(d):\n    buttondes.config(text=d)\n#widgets created\ntypeoftrie=tk.Label(master=instractionfr,text=\"Choose the direction\",font = ('calibre',12,'bold')) \nasc = tk.Radiobutton(master=instractionfr, text='ASC',variable=radioValue,value=0,",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "displaydesig",
-        "kind": 2,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "def displaydesig(d):\n    buttondes.config(text=d)\n#widgets created\ntypeoftrie=tk.Label(master=instractionfr,text=\"Choose the direction\",font = ('calibre',12,'bold')) \nasc = tk.Radiobutton(master=instractionfr, text='ASC',variable=radioValue,value=0,\nfont = ('calibre',10,'bold'),cursor=\"hand2\") \ndesc = tk.Radiobutton(master=instractionfr, text='DESC',variable=radioValue, value=1,\nfont = ('calibre',10,'bold'),cursor=\"hand2\")\ntypetext=tk.Label(master=instractionfr,text=\"Pick the type of sorting\",font = ('calibre',12,'bold')) \ntypelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "window",
-        "kind": 5,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "window = tk.Tk()\n    #variables \nwindow.geometry('900x600+220+40')\nradioValue = tk.IntVar() \ntypetrie=tk.StringVar()\nvalue=tk.StringVar()\ntrietypes=[\"insertion\",\"bulle\"]\ninstractionfr=tk.Frame(master=window)\nbuttonfr=tk.Frame(master=window)\nsortimage=PhotoImage(file='sort.png')",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "radioValue",
-        "kind": 5,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "radioValue = tk.IntVar() \ntypetrie=tk.StringVar()\nvalue=tk.StringVar()\ntrietypes=[\"insertion\",\"bulle\"]\ninstractionfr=tk.Frame(master=window)\nbuttonfr=tk.Frame(master=window)\nsortimage=PhotoImage(file='sort.png')\nclearimage=PhotoImage(file='cancel.png')\ncreateimage=PhotoImage(file='table.png')\nleftimage=PhotoImage(file='left.png')",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "frequency",
-        "kind": 5,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "frequency = 2000  # Set Frequency To 2500 Hertz\nduration = 200  # Set Duration To 1000 ms == 1 second\n#functions\n\"\"\"def gettype():\n    global nbrcase2\n    nbrcase2=tk.Label(text=typetrie.get()+\"  \"+str(radioValue.get())).pack(padx=5,pady=5)\ndef hideerrmsg():\n    errormsg.config(text=\"\")\"\"\"\ndef validatenumcase(S):\n    if S=='':",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "duration",
-        "kind": 5,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "duration = 200  # Set Duration To 1000 ms == 1 second\n#functions\n\"\"\"def gettype():\n    global nbrcase2\n    nbrcase2=tk.Label(text=typetrie.get()+\"  \"+str(radioValue.get())).pack(padx=5,pady=5)\ndef hideerrmsg():\n    errormsg.config(text=\"\")\"\"\"\ndef validatenumcase(S):\n    if S=='':\n        return True",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "asc",
-        "kind": 5,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "asc = tk.Radiobutton(master=instractionfr, text='ASC',variable=radioValue,value=0,\nfont = ('calibre',10,'bold'),cursor=\"hand2\") \ndesc = tk.Radiobutton(master=instractionfr, text='DESC',variable=radioValue, value=1,\nfont = ('calibre',10,'bold'),cursor=\"hand2\")\ntypetext=tk.Label(master=instractionfr,text=\"Pick the type of sorting\",font = ('calibre',12,'bold')) \ntypelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "font",
-        "kind": 5,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "font = ('calibre',10,'bold'),cursor=\"hand2\") \ndesc = tk.Radiobutton(master=instractionfr, text='DESC',variable=radioValue, value=1,\nfont = ('calibre',10,'bold'),cursor=\"hand2\")\ntypetext=tk.Label(master=instractionfr,text=\"Pick the type of sorting\",font = ('calibre',12,'bold')) \ntypelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "desc",
-        "kind": 5,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "desc = tk.Radiobutton(master=instractionfr, text='DESC',variable=radioValue, value=1,\nfont = ('calibre',10,'bold'),cursor=\"hand2\")\ntypetext=tk.Label(master=instractionfr,text=\"Pick the type of sorting\",font = ('calibre',12,'bold')) \ntypelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",\n                  validatecommand=vncmd,font = ('calibre',12,'bold'))",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "font",
-        "kind": 5,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypetext=tk.Label(master=instractionfr,text=\"Pick the type of sorting\",font = ('calibre',12,'bold')) \ntypelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",\n                  validatecommand=vncmd,font = ('calibre',12,'bold'))\nnbrcase.focus_set()      ",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "typelist",
-        "kind": 5,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "typelist = ttk.Combobox(master=instractionfr, values = trietypes,textvariable=typetrie,\n                         font = ('calibre',10,'bold'),cursor=\"hand2\")\ntypelist.set(\"insertion\")\nvncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",\n                  validatecommand=vncmd,font = ('calibre',12,'bold'))\nnbrcase.focus_set()      \ncreat=tk.Button(master=buttonfr,image=createimage,command= lambda :creatlist(nbrcase.get()),\n                font = ('calibre',12,'bold') ,width=40,height=40,cursor=\"hand2\")",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "vncmd",
-        "kind": 5,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "vncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P')\nnbrtext=tk.Label(master=instractionfr,text=\"Enter the length\",font = ('calibre',12,'bold'))\nnbrcase=tk.Entry(master=instractionfr,justify=CENTER,validate=\"key\",\n                  validatecommand=vncmd,font = ('calibre',12,'bold'))\nnbrcase.focus_set()      \ncreat=tk.Button(master=buttonfr,image=createimage,command= lambda :creatlist(nbrcase.get()),\n                font = ('calibre',12,'bold') ,width=40,height=40,cursor=\"hand2\")\nclear=tk.Button(master=buttonfr,image=clearimage,command= lambda :clearlist(),state=DISABLED,\n               font = ('calibre',12,'bold'),width=40,height=40,cursor=\"arrow\")\ntrie=tk.Button(master=buttonfr,image=sortimage,command= lambda :trielist(),",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "state=DISABLED,font",
-        "kind": 5,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "state=DISABLED,font = ('calibre',12,'bold'),width=40,height=40,cursor=\"arrow\")\nerrormsg=tk.Label(master=instractionfr,text=\"\",fg=\"red\",font = ('calibre',12,'bold'))\nlimitexceeded=tk.Label(master=window,text=\"\",font = ('calibre',12,'bold'),fg=\"red\")\ndatatxt=tk.Label(master=datadesig,text=\"Fill the boxes:\",font = ('calibre',12,'bold'))\nbuttondes=tk.Label(window,text=\"test\",bd=1,relief=SUNKEN,anchor=E)\n#tip.bind_widget(clear,balloonmsg=\"Creat (ctrl+c)\")\n\"\"\"#Create a tooltip\ntip= Balloon(window)\n#Create a Button widget\nmy_button=Button(window, text= \"Python\", font=('Helvetica bold', 20))",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "errormsg=tk.Label(master=instractionfr,text=\"\",fg=\"red\",font",
-        "kind": 5,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "errormsg=tk.Label(master=instractionfr,text=\"\",fg=\"red\",font = ('calibre',12,'bold'))\nlimitexceeded=tk.Label(master=window,text=\"\",font = ('calibre',12,'bold'),fg=\"red\")\ndatatxt=tk.Label(master=datadesig,text=\"Fill the boxes:\",font = ('calibre',12,'bold'))\nbuttondes=tk.Label(window,text=\"test\",bd=1,relief=SUNKEN,anchor=E)\n#tip.bind_widget(clear,balloonmsg=\"Creat (ctrl+c)\")\n\"\"\"#Create a tooltip\ntip= Balloon(window)\n#Create a Button widget\nmy_button=Button(window, text= \"Python\", font=('Helvetica bold', 20))\nmy_button.pack(pady=20)",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "limitexceeded=tk.Label(master=window,text=\"\",font",
-        "kind": 5,
-        "importPath": "sortingprogram",
-        "description": "sortingprogram",
-        "peekOfCode": "limitexceeded=tk.Label(master=window,text=\"\",font = ('calibre',12,'bold'),fg=\"red\")\ndatatxt=tk.Label(master=datadesig,text=\"Fill the boxes:\",font = ('calibre',12,'bold'))\nbuttondes=tk.Label(window,text=\"test\",bd=1,relief=SUNKEN,anchor=E)\n#tip.bind_widget(clear,balloonmsg=\"Creat (ctrl+c)\")\n\"\"\"#Create a tooltip\ntip= Balloon(window)\n#Create a Button widget\nmy_button=Button(window, text= \"Python\", font=('Helvetica bold', 20))\nmy_button.pack(pady=20)\n#Bind the tooltip with button",
-        "detail": "sortingprogram",
-        "documentation": {}
-    },
-    {
-        "label": "vncmd",
-        "kind": 5,
-        "importPath": "tempCodeRunnerFile",
-        "description": "tempCodeRunnerFile",
-        "peekOfCode": "vncmd = (tk.Label(master=instractionfr,text=\"Enter the length\").register(validatenumcase),'%P','%S')",
-        "detail": "tempCodeRunnerFile",
-        "documentation": {}
-    },
-    {
-        "label": "Case",
-        "kind": 6,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "class Case(tk.Frame):\n      def __int__(self,parent,i):\n         tk.Frame.__init__(self,parent,relief=tk.RAISED,\n            borderwidth=1,\n            bg=\"#ec0062\")\n         vcmd = (self.register(self,self.check),'%S')\n         self.label=tk.Label(self,text=f\"Index : {i+1}\",bg=\"#ec0062\")\n         self.entry=tk.Entry(self,width=10,justify=CENTER,validate='Key',validatecommand=vcmd)\n         self.label.pack()\n         self.entry.pack()",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "deletelastcase",
-        "kind": 2,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "def deletelastcase(n):\n    for widget in result.winfo_children():\n          widget.destroy() \n    l.pop().destroy()\n    nbrcase.configure(state='normal')\n    nbrcase.delete(0,END)\n    nbrcase.insert(0,n-1)\n    nbrcase.configure(state='disabled')\n    Case.filledlist.pop()\n    if Case.nbremptycase==0 :",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "gettype",
-        "kind": 2,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "def gettype():\n    global nbrcase2\n    nbrcase2=tk.Label(text=typetrie.get()+\"  \"+str(radioValue.get())).pack(padx=5,pady=5)\ndef fillcase():\n      pass\ndef clearlist():\n    for widget in data.winfo_children():\n          widget.destroy()\n    for widget in result.winfo_children():\n          widget.destroy() ",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "fillcase",
-        "kind": 2,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "def fillcase():\n      pass\ndef clearlist():\n    for widget in data.winfo_children():\n          widget.destroy()\n    for widget in result.winfo_children():\n          widget.destroy() \n    trie.configure(state='disabled')\n    nbrcase.configure(state='normal')\n    clear.configure(state='disabled')",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "clearlist",
-        "kind": 2,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "def clearlist():\n    for widget in data.winfo_children():\n          widget.destroy()\n    for widget in result.winfo_children():\n          widget.destroy() \n    trie.configure(state='disabled')\n    nbrcase.configure(state='normal')\n    clear.configure(state='disabled')\n    creat.configure(state='active')   \ndef creatlist(n): ",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "creatlist",
-        "kind": 2,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "def creatlist(n): \n    for widget in result.winfo_children():\n          widget.destroy()\n    for i in range(n):\n         Case(data,i).grid(row=(i//10)+10,column=i % 10,padx=5,pady=5)\n    trie.configure(state='active')\n    nbrcase.configure(state='disabled')\n    creat.configure(state='disabled')\n    clear.configure(state='active')\ndef trielist(n):",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "trielist",
-        "kind": 2,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "def trielist(n):\n    tk.Label(master=result,text=\"The tried list :\").grid(column=0,row=0)\n    for i in range(n):\n      tried = tk.Frame(\n            master=result,\n            relief=tk.RAISED,\n            borderwidth=1,\n            bg=\"#ffc30f\"\n      )\n      tried.grid(row=(i//10)+10,column=i % 10,padx=5,pady=5)",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "window",
-        "kind": 5,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "window = tk.Tk() \n# creating and placing scrollbar\n#variables\nwindow.geometry('150x100')\nradioValue = tk.IntVar() \ntypetrie=tk.StringVar()\nvalue=tk.StringVar()\ntrietypes=[\"Insertion\",\"A bulle\",\"Selection\",\"Shell\"]\ndata=tk.Frame(master=window)\nresult=tk.Frame(master=window)",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "radioValue",
-        "kind": 5,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "radioValue = tk.IntVar() \ntypetrie=tk.StringVar()\nvalue=tk.StringVar()\ntrietypes=[\"Insertion\",\"A bulle\",\"Selection\",\"Shell\"]\ndata=tk.Frame(master=window)\nresult=tk.Frame(master=window)\n#functions\ndef deletelastcase(n):\n    for widget in result.winfo_children():\n          widget.destroy() ",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "asc",
-        "kind": 5,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "asc = tk.Radiobutton(window, text='ASC',variable=radioValue,value=0) \ndesc = tk.Radiobutton(window, text='DESC',variable=radioValue, value=1)\ntypetext=tk.Label(text=\"Pick an trie's type\") \ntypelist = ttk.Combobox( values = trietypes,textvariable=typetrie)\ntypelist.set(\"socktrie\")\nnbrtext=tk.Label(text=\"Enter the list's length\")\nnbrcase=tk.Entry()      \ncreat=tk.Button(window,text=\"Creat\",command= lambda :creatlist(int(nbrcase.get())))\nclear=tk.Button(window,text=\"Clear\",command= lambda :clearlist(),state=DISABLED)\n#trie=tk.Button(window,text=\"Trie\",command= lambda :trielist(int(nbrcase.get())))",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "desc",
-        "kind": 5,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "desc = tk.Radiobutton(window, text='DESC',variable=radioValue, value=1)\ntypetext=tk.Label(text=\"Pick an trie's type\") \ntypelist = ttk.Combobox( values = trietypes,textvariable=typetrie)\ntypelist.set(\"socktrie\")\nnbrtext=tk.Label(text=\"Enter the list's length\")\nnbrcase=tk.Entry()      \ncreat=tk.Button(window,text=\"Creat\",command= lambda :creatlist(int(nbrcase.get())))\nclear=tk.Button(window,text=\"Clear\",command= lambda :clearlist(),state=DISABLED)\n#trie=tk.Button(window,text=\"Trie\",command= lambda :trielist(int(nbrcase.get())))\ntrie=tk.Button(window,text=\"Trie\",command= lambda :trielist(int(nbrcase.get())),state=DISABLED)",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "typelist",
-        "kind": 5,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "typelist = ttk.Combobox( values = trietypes,textvariable=typetrie)\ntypelist.set(\"socktrie\")\nnbrtext=tk.Label(text=\"Enter the list's length\")\nnbrcase=tk.Entry()      \ncreat=tk.Button(window,text=\"Creat\",command= lambda :creatlist(int(nbrcase.get())))\nclear=tk.Button(window,text=\"Clear\",command= lambda :clearlist(),state=DISABLED)\n#trie=tk.Button(window,text=\"Trie\",command= lambda :trielist(int(nbrcase.get())))\ntrie=tk.Button(window,text=\"Trie\",command= lambda :trielist(int(nbrcase.get())),state=DISABLED)\ndeletecase=tk.Button(window,text=\"Delete case\",command=lambda : deletelastcase(int(nbrcase.get())),state=DISABLED)\n#emplacement of Widgets",
-        "detail": "test",
-        "documentation": {}
-    },
-    {
-        "label": "typelist.pack(padx",
-        "kind": 5,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "typelist.pack(padx = 5, pady = 5)\nnbrtext.pack(padx=5,pady=5)\nnbrcase.pack(padx=5, pady=5)\ncreat.pack(padx=5, pady=5)\nclear.pack(padx=5, pady=5)\ndeletecase.pack(padx=5,pady=5)\ntrie.pack(padx=5,pady=5)\ndata.pack()\nresult.pack()\nwindow.minsize(760,500)",
-        "detail": "test",
+        "detail": "app",
         "documentation": {}
     },
     {
         "label": "bulle",
         "kind": 2,
-        "importPath": "test2",
-        "description": "test2",
+        "importPath": "triAlgs",
+        "description": "triAlgs",
         "peekOfCode": "def bulle(l):\n    n=len(l)\n    while 1:\n        permutation=False\n        for i in range(1,n):\n            if l[i]<l[i-1]:\n                l[i],l[i-1]=l[i-1],l[i]\n                permutation = True\n        if not permutation:\n            break",
-        "detail": "test2",
+        "detail": "triAlgs",
         "documentation": {}
     },
     {
         "label": "insertion",
         "kind": 2,
-        "importPath": "test2",
-        "description": "test2",
+        "importPath": "triAlgs",
+        "description": "triAlgs",
         "peekOfCode": "def insertion(l):\n    for i in range(len(l)):\n        x=l[i]\n        j=i\n        #décalage des éléments de la liste\n        while j>0 and l[j-1]>x:\n            l[j]=l[j-1]\n            j=j-1\n        #on insére l'élément à sa place\n        l[j]=x    ",
-        "detail": "test2",
+        "detail": "triAlgs",
         "documentation": {}
     },
     {
         "label": "posmin",
         "kind": 2,
-        "importPath": "test2",
-        "description": "test2",
+        "importPath": "triAlgs",
+        "description": "triAlgs",
         "peekOfCode": "def posmin(l):\n    p=0\n    for i in range(1,len(l)):\n        if l[i]<l[p]:\n            p=i\n    return p\ndef selection(l):\n    for i in range(len(l)):\n        p=posmin(l[i:])\n        l[i],l[p+i]=l[p+i],l[i]",
-        "detail": "test2",
+        "detail": "triAlgs",
         "documentation": {}
     },
     {
         "label": "selection",
         "kind": 2,
-        "importPath": "test2",
-        "description": "test2",
+        "importPath": "triAlgs",
+        "description": "triAlgs",
         "peekOfCode": "def selection(l):\n    for i in range(len(l)):\n        p=posmin(l[i:])\n        l[i],l[p+i]=l[p+i],l[i]\n\"\"\"def partquicksort(l):\n    start=0\n    end=len(l)-1\n    pivot=8\n    while start<end:\n        while l[start]<l[pivot]:",
-        "detail": "test2",
-        "documentation": {}
-    },
-    {
-        "label": "root",
-        "kind": 5,
-        "importPath": "test4",
-        "description": "test4",
-        "peekOfCode": "root = tk.Tk()\n# cursor=\"hand1\" or cursor=\"hand2\"\ntk.Button(root, text=\"Start\",cursor=\"hand2\").pack()\nroot.mainloop()",
-        "detail": "test4",
-        "documentation": {}
-    },
-    {
-        "label": "key_pressed",
-        "kind": 2,
-        "importPath": "test5",
-        "description": "test5",
-        "peekOfCode": "def key_pressed(event):\n w=Label(root,text=\"Key Pressed:\"+event.char)\n w.place(x=70,y=90)\nroot.bind(\"<Key>\",key_pressed)\nroot.mainloop()\"\"\"\n#Import the tkinter library\nfrom tkinter import *\n#Create an instance of tkinter frame\nwin = Tk()\n#Set the geometry",
-        "detail": "test5",
-        "documentation": {}
-    },
-    {
-        "label": "handler",
-        "kind": 2,
-        "importPath": "test5",
-        "description": "test5",
-        "peekOfCode": "def handler(e):\n   label= Label(win, text= \"You Pressed Enter\")\n   label.pack()\n#Create a Label\nLabel(win, text= \"Press Enter on the Keyboard\", font= ('Helvetica bold', 14)).pack(pady=20)\nEntry(win).pack()\n#Bind the Enter Key to Call an event\nwin.bind('<Return>',handler)\nwin.mainloop()",
-        "detail": "test5",
-        "documentation": {}
-    },
-    {
-        "label": "win",
-        "kind": 5,
-        "importPath": "test5",
-        "description": "test5",
-        "peekOfCode": "win = Tk()\n#Set the geometry\nwin.geometry(\"650x250\")\ndef handler(e):\n   label= Label(win, text= \"You Pressed Enter\")\n   label.pack()\n#Create a Label\nLabel(win, text= \"Press Enter on the Keyboard\", font= ('Helvetica bold', 14)).pack(pady=20)\nEntry(win).pack()\n#Bind the Enter Key to Call an event",
-        "detail": "test5",
-        "documentation": {}
-    },
-    {
-        "label": "key",
-        "kind": 2,
-        "importPath": "test6",
-        "description": "test6",
-        "peekOfCode": "def key(event):\n    if event.char == event.keysym:\n        msg = 'Normal Key %r' % event.char\n    elif len(event.char) == 1:\n        msg = 'Punctuation Key %r (%r)' % (event.keysym, event.char)\n    else:\n        msg = 'Special Key %r' % event.keysym\n    label1.config(text=msg)\nroot.bind_all('<Control-Key-C>', key)\nroot.bind_all('<Control-Key-1>', key)",
-        "detail": "test6",
-        "documentation": {}
-    },
-    {
-        "label": "root",
-        "kind": 5,
-        "importPath": "test6",
-        "description": "test6",
-        "peekOfCode": "root = Tk()\nprompt = '      Press any key      '\nlabel1 = Label(root, text=prompt, width=len(prompt), bg='yellow')\nlabel1.pack()\ndef key(event):\n    if event.char == event.keysym:\n        msg = 'Normal Key %r' % event.char\n    elif len(event.char) == 1:\n        msg = 'Punctuation Key %r (%r)' % (event.keysym, event.char)\n    else:",
-        "detail": "test6",
-        "documentation": {}
-    },
-    {
-        "label": "prompt",
-        "kind": 5,
-        "importPath": "test6",
-        "description": "test6",
-        "peekOfCode": "prompt = '      Press any key      '\nlabel1 = Label(root, text=prompt, width=len(prompt), bg='yellow')\nlabel1.pack()\ndef key(event):\n    if event.char == event.keysym:\n        msg = 'Normal Key %r' % event.char\n    elif len(event.char) == 1:\n        msg = 'Punctuation Key %r (%r)' % (event.keysym, event.char)\n    else:\n        msg = 'Special Key %r' % event.keysym",
-        "detail": "test6",
-        "documentation": {}
-    },
-    {
-        "label": "label1",
-        "kind": 5,
-        "importPath": "test6",
-        "description": "test6",
-        "peekOfCode": "label1 = Label(root, text=prompt, width=len(prompt), bg='yellow')\nlabel1.pack()\ndef key(event):\n    if event.char == event.keysym:\n        msg = 'Normal Key %r' % event.char\n    elif len(event.char) == 1:\n        msg = 'Punctuation Key %r (%r)' % (event.keysym, event.char)\n    else:\n        msg = 'Special Key %r' % event.keysym\n    label1.config(text=msg)",
-        "detail": "test6",
-        "documentation": {}
-    },
-    {
-        "label": "win",
-        "kind": 5,
-        "importPath": "test7",
-        "description": "test7",
-        "peekOfCode": "win = Tk()\n#Set the geometry\nwin.geometry(\"400x200\")\n#Create a tooltip\ntip= Balloon(win)\n#Create a Button widget\nmy_button=Button(win, text= \"Python\", font=('Helvetica bold', 20))\nmy_button.pack(pady=20)\n#Bind the tooltip with button\ntip.bind_widget(my_button,balloonmsg=\"Python programming language\")",
-        "detail": "test7",
-        "documentation": {}
-    },
-    {
-        "label": "key",
-        "kind": 2,
-        "importPath": "testaddb",
-        "description": "testaddb",
-        "peekOfCode": "def key(event):\n    if event.char == event.keysym:\n        msg = 'Normal Key %r' % event.char\n    elif len(event.char) == 1:\n        msg = 'Punctuation Key %r (%r)' % (event.keysym, event.char)\n    else:\n        msg = 'Special Key %r' % event.keysym\n    label1.config(text=msg)\nroot.bind_all('<Control-Key-C>', key)\nroot.bind_all('<Control-Key-1>', key)",
-        "detail": "testaddb",
-        "documentation": {}
-    },
-    {
-        "label": "root",
-        "kind": 5,
-        "importPath": "testaddb",
-        "description": "testaddb",
-        "peekOfCode": "root = Tk()\n\"\"\"prompt = '      Press any key      '\nlabel1 = Label(root, text=prompt, width=len(prompt), bg='yellow')\nlabel1.pack()\ndef key(event):\n    if event.char == event.keysym:\n        msg = 'Normal Key %r' % event.char\n    elif len(event.char) == 1:\n        msg = 'Punctuation Key %r (%r)' % (event.keysym, event.char)\n    else:",
-        "detail": "testaddb",
-        "documentation": {}
-    },
-    {
-        "label": "\"\"\"prompt",
-        "kind": 5,
-        "importPath": "testaddb",
-        "description": "testaddb",
-        "peekOfCode": "\"\"\"prompt = '      Press any key      '\nlabel1 = Label(root, text=prompt, width=len(prompt), bg='yellow')\nlabel1.pack()\ndef key(event):\n    if event.char == event.keysym:\n        msg = 'Normal Key %r' % event.char\n    elif len(event.char) == 1:\n        msg = 'Punctuation Key %r (%r)' % (event.keysym, event.char)\n    else:\n        msg = 'Special Key %r' % event.keysym",
-        "detail": "testaddb",
-        "documentation": {}
-    },
-    {
-        "label": "label1",
-        "kind": 5,
-        "importPath": "testaddb",
-        "description": "testaddb",
-        "peekOfCode": "label1 = Label(root, text=prompt, width=len(prompt), bg='yellow')\nlabel1.pack()\ndef key(event):\n    if event.char == event.keysym:\n        msg = 'Normal Key %r' % event.char\n    elif len(event.char) == 1:\n        msg = 'Punctuation Key %r (%r)' % (event.keysym, event.char)\n    else:\n        msg = 'Special Key %r' % event.keysym\n    label1.config(text=msg)",
-        "detail": "testaddb",
-        "documentation": {}
-    },
-    {
-        "label": "my_command",
-        "kind": 2,
-        "importPath": "testbimage",
-        "description": "testbimage",
-        "peekOfCode": "def my_command():\n   text.config(text= \"You have clicked Me...\")\n#Import the image using PhotoImage function\nclick_btn= PhotoImage(file='cancel.png')\n#Let us create a label for button event\nimg_label= Label(image=click_btn)\n#Let us create a dummy button and pass the image\nbutton= Button(win, image=click_btn,command= my_command,\nborderwidth=0)\nbutton.pack(pady=30)",
-        "detail": "testbimage",
+        "detail": "triAlgs",
         "documentation": {}
     }
 ]

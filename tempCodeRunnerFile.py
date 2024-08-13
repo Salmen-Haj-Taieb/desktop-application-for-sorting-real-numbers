@@ -1,1 +1,0 @@
-vncmd = (tk.Label(master=instractionfr,text="Enter the length").register(validatenumcase),'%P','%S')
